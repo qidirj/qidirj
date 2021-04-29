@@ -1,6 +1,18 @@
 # README
 
-## Discryption
+## Myself
+
+某吉林蒟蒻。
+
+超级蒟蒻。
+
+NOI Online 提高组用 `printf("%d",&n);` 的蒟蒻。
+
+大佬勿喷！
+
+## Blog
+
+### Discryption
 
 这是我的第四个博客。
 
@@ -16,7 +28,7 @@
 
 这次一定能把博客建好！（（（
 
-## Status
+### Status
 
 - [ ] 建站（感谢 WordPress）
 - [ ] 装载 Argon 主题（感谢 Argon 的作者）
